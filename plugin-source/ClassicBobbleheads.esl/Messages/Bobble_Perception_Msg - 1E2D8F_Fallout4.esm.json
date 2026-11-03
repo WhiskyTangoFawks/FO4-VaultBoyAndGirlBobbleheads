@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D8F:Fallout4.esm",
+  "EditorID": "Bobble_Perception_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Only through observation will you perceive weakness.\"\r\n\r\nYour Perception has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

@@ -1,0 +1,39 @@
+{
+  "FormKey": "061686:Fallout4.esm",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "PerkBobbleheadSneak",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sneak Vault Boy Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "5% harder to detect."
+  },
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModDetectionLight",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 0.95
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 1,
+      "EntryPoint": "ModDetectionMovement",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 0.95
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

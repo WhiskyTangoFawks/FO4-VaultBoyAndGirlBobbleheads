@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D99:Fallout4.esm",
+  "EditorID": "Bobble_Medicine_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"The smart man knows a bandage only hides his wounds.\"\r\n\r\nStimpaks permanently heal 10% more damage."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

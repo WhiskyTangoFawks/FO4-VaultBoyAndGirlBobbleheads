@@ -1,0 +1,10 @@
+{
+  "FormKey": "00002B:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Strength_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"For when you want to carry just one more tin can.\"\r\n\r\nYour Strength has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "00001B:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Barter_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Never forget to walk away with more than you've brought.\"\r\n\r\nBuying prices are permanently 5% better."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

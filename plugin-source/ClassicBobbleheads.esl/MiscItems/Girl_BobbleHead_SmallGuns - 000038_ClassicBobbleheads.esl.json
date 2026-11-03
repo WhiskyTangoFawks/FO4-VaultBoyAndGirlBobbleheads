@@ -1,0 +1,41 @@
+{
+  "FormKey": "000038:ClassicBobbleheads.esl",
+  "EditorID": "Girl_BobbleHead_SmallGuns",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSkillScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerkToAdd",
+            "Object": "000042:ClassicBobbleheads.esl"
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-3, -4, 0",
+    "Second": "2, 6, 16"
+  },
+  "PreviewTransform": "1BA1A6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Girl Small Guns Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\SmallGunsF.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "00001A:ClassicBobbleheads.esl",
+  "Value": 300
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "000023:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Repair_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"They sure don't make 'em like they used to.\" \r\n\r\nFusion cores permanently last 10% longer."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D8E:Fallout4.esm",
+  "EditorID": "Bobble_Strength_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"It's essential to give your arguments impact.\"\r\n\r\nYour Strength has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

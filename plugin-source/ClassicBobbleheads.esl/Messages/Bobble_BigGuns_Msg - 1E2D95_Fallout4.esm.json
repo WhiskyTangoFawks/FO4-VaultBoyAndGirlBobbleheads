@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D95:Fallout4.esm",
+  "EditorID": "Bobble_BigGuns_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"The best way to win an argument is to be the loudest.\"\r\n\r\nPermanently gain +25% critical damage with heavy weapons."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

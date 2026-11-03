@@ -1,0 +1,58 @@
+{
+  "FormKey": "00004E:ClassicBobbleheads.esl",
+  "EditorID": "_gkx_load_formlist_copies_GirlBobble",
+  "VirtualMachineAdapter": {
+    "Script": {
+      "Name": "Fragments:Quests:QF__gkx_load_formlist_copies_0301EEFC",
+      "Properties": [
+        {
+          "MutagenObjectType": "ScriptObjectListProperty",
+          "Name": "listPairs",
+          "Objects": [
+            {
+              "Name": "",
+              "Object": "00004D:ClassicBobbleheads.esl"
+            },
+            {
+              "Name": "",
+              "Object": "0000C8:RandomValuablesRedux.esp"
+            }
+          ]
+        }
+      ]
+    },
+    "Fragments": [
+      {
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF__gkx_load_formlist_copies_0301EEFC",
+        "FragmentName": "Fragment_Stage_0000_Item_00"
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "_gkx_load_formlist_copies"
+  },
+  "Data": {
+    "Flags": [
+      "StartGameEnabled",
+      "StartsEnabled",
+      "RunOnce"
+    ],
+    "Priority": 80
+  },
+  "UnusedConditions": [],
+  "Stages": [
+    {
+      "Flags": [
+        "RunOnStart"
+      ],
+      "LogEntries": [
+        {
+          "Flags": []
+        }
+      ]
+    }
+  ],
+  "Aliases": []
+}

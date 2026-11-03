@@ -1,0 +1,31 @@
+{
+  "FormKey": "06167C:Fallout4.esm",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "PerkBobbleheadBarter",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Barter Vault Boy Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Selling prices are 5% better"
+  },
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModSellPrices",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 1.05
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

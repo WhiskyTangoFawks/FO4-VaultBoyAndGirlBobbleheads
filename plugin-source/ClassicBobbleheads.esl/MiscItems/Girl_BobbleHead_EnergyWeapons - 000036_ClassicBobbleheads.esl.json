@@ -1,0 +1,41 @@
+{
+  "FormKey": "000036:ClassicBobbleheads.esl",
+  "EditorID": "Girl_BobbleHead_EnergyWeapons",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSkillScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerkToAdd",
+            "Object": "000041:ClassicBobbleheads.esl"
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-3, -3, 0",
+    "Second": "3, 7, 17"
+  },
+  "PreviewTransform": "1BA1A6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Girl Energy Weapons Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\EnergyWeaponsF.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "000019:ClassicBobbleheads.esl",
+  "Value": 300
+}

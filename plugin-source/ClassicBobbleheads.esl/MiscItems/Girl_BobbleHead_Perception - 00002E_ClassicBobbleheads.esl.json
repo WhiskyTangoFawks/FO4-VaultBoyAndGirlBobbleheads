@@ -1,0 +1,46 @@
+{
+  "FormKey": "00002E:ClassicBobbleheads.esl",
+  "EditorID": "Girl_BobbleHead_Perception",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSPECIALscrip",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerksQuest",
+            "Object": "00004F:ClassicBobbleheads.esl"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "stage",
+            "Data": 730
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-3, -4, 0",
+    "Second": "2, 2, 16"
+  },
+  "PreviewTransform": "1BA1A6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Girl Perception Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\PerceptionF.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "00002A:ClassicBobbleheads.esl",
+  "Value": 300
+}

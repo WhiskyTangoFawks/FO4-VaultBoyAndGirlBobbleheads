@@ -1,0 +1,46 @@
+{
+  "FormKey": "178B51:Fallout4.esm",
+  "EditorID": "BobbleHead_Agility",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSPECIALscrip",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerksQuest",
+            "Object": "04A09E:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "stage",
+            "Data": 770
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-4, -4, 0",
+    "Second": "3, 6, 13"
+  },
+  "PreviewTransform": "238CDA:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Boy Agility Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\AgilityM.nif",
+    "Data": "0x04000000040000000000000002000000010000003067E2A764647300E615AF47E90BE4C464647300E615AF47F7E2312464647300E615AF470F2C2A00646473001CDB88C50D4F61246267736D67EF66B1"
+  },
+  "Keywords": [
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm",
+    "0E9447:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "1E2D8D:Fallout4.esm",
+  "Value": 300
+}

@@ -1,0 +1,15 @@
+{
+  "FormKey": "000833:ClassicBobbleheads.esl",
+  "VersionControl": 33565793,
+  "EditorID": "00DCSPECIALCharisma_Female",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Charisma is your ability to charm and convince others. It affects your success to persuade in dialogue and prices when you barter."
+  },
+  "LoadingScreenNif": "000846:ClassicBobbleheads.esl",
+  "Transform": "22BABE:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

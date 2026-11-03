@@ -1,0 +1,15 @@
+{
+  "FormKey": "000831:ClassicBobbleheads.esl",
+  "VersionControl": 33565793,
+  "EditorID": "00DCSPECIALAgility_Female",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Agility is a measure of your overall finesse and reflexes. It determines your Action Points in V.A.T.S. and your ability to sneak."
+  },
+  "LoadingScreenNif": "000845:ClassicBobbleheads.esl",
+  "Transform": "22BABD:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

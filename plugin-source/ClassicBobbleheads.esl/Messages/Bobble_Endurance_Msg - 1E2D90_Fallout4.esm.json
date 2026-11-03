@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D90:Fallout4.esm",
+  "EditorID": "Bobble_Endurance_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Always be ready to take one for the team.\"\r\n\r\nYour Endurance has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

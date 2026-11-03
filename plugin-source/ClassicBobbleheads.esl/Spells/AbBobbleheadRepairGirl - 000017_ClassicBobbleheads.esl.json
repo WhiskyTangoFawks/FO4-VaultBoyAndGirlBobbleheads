@@ -1,0 +1,22 @@
+{
+  "FormKey": "000017:ClassicBobbleheads.esl",
+  "EditorID": "AbBobbleheadRepairGirl",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bobblehead Repair"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Type": "Ability",
+  "Effects": [
+    {
+      "BaseEffect": "16939E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.1
+      }
+    }
+  ]
+}

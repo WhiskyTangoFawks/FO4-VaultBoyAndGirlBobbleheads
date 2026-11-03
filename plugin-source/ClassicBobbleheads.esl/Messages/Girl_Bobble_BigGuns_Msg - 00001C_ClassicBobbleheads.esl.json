@@ -1,0 +1,10 @@
+{
+  "FormKey": "00001C:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_BigGuns_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Size matters.\"Permanently gain +5% critical chance with heavy weapons."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

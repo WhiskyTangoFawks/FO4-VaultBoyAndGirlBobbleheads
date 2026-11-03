@@ -1,0 +1,41 @@
+{
+  "FormKey": "178B5F:Fallout4.esm",
+  "EditorID": "BobbleHead_Science",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSkillScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerkToAdd",
+            "Object": "061684:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-4, -3, 0",
+    "Second": "2, 2, 16"
+  },
+  "PreviewTransform": "1BA1A6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Boy Science Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\ScienceM.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "1E2D9C:Fallout4.esm",
+  "Value": 300
+}

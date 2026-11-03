@@ -1,0 +1,10 @@
+{
+  "FormKey": "000019:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_EnergyWeapons_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"The future is now.\"\r\n\r\nPermanently gain +5% critical chance with energy weapons."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

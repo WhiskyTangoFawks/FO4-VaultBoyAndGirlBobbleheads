@@ -1,0 +1,10 @@
+{
+  "FormKey": "000022:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Speech_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Is there anything you can't persuade someone to do?\"\r\n\r\nWomen are permanently easier to persuade."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

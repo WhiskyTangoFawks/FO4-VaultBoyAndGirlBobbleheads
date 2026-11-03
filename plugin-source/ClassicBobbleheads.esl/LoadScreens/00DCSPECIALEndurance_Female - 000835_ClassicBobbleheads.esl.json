@@ -1,0 +1,15 @@
+{
+  "FormKey": "000835:ClassicBobbleheads.esl",
+  "VersionControl": 33565793,
+  "EditorID": "00DCSPECIALEndurance_Female",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting."
+  },
+  "LoadingScreenNif": "000847:ClassicBobbleheads.esl",
+  "Transform": "22BABE:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

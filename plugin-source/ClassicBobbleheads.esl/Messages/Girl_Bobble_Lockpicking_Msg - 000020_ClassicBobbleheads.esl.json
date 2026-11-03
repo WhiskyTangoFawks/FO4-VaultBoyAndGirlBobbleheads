@@ -1,0 +1,10 @@
+{
+  "FormKey": "000020:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Lockpicking_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Amazing where pre-war folk used to leave this stuff.\"\r\n\r\nLockpicking is permanently easier."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

@@ -1,0 +1,41 @@
+{
+  "FormKey": "000841:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 1024,
+  "VersionControl": 33565793,
+  "EditorID": "00DCLSIntelligence_Male",
+  "Fallout4MajorRecordFlags": [
+    "0x400"
+  ],
+  "ObjectBounds": {
+    "First": "-3, -4, -7",
+    "Second": "3, 3, 9"
+  },
+  "Model": {
+    "File": "SCOL\\ClassicBobbleheads.esp\\CM00000841.NIF",
+    "Data": "0x04000000070000000000000003000000020000000E49DC4164647300E615AF47D725DA2264647300E615AF473067E2A764647300E615AF47E90BE4C464647300E615AF47F7E2312464647300E615AF470F2C2A00646473001CDB88C5C9CC0FC264647300E615AF470D4F61246267736D67EF66B1F702453E6267736D67EF66B1"
+  },
+  "Parts": [
+    {
+      "Static": "035812:Fallout4.esm",
+      "Placements": [
+        {
+          "Rotation": "0, 0, 0.024996605",
+          "Scale": 1.0
+        }
+      ]
+    },
+    {
+      "Static": "178B58:Fallout4.esm",
+      "Placements": [
+        {
+          "Position": "-0.006348, 0.306641, -7.170624",
+          "Rotation": "0, 0, 0.024996605",
+          "Scale": 1.0
+        }
+      ]
+    }
+  ],
+  "MajorFlags": [
+    "Loadscreen"
+  ]
+}

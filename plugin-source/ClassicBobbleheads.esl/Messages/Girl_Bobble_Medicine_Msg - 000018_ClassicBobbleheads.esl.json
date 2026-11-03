@@ -1,0 +1,10 @@
+{
+  "FormKey": "000018:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Medicine_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"A Mutfruit a day keeps the doctor away.\"\r\n\r\nRadaway permanently heals 10% extra radiation."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

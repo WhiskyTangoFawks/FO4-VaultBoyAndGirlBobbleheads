@@ -1,0 +1,46 @@
+{
+  "FormKey": "000032:ClassicBobbleheads.esl",
+  "EditorID": "Girl_BobbleHead_Luck",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSPECIALscrip",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerksQuest",
+            "Object": "00004F:ClassicBobbleheads.esl"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "stage",
+            "Data": 780
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-4, -6, 0",
+    "Second": "5, 3, 19"
+  },
+  "PreviewTransform": "24888A:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Girl Luck Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\LuckF.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "000029:ClassicBobbleheads.esl",
+  "Value": 300
+}

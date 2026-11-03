@@ -1,0 +1,46 @@
+{
+  "FormKey": "000031:ClassicBobbleheads.esl",
+  "EditorID": "Girl_BobbleHead_Agility",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSPECIALscrip",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerksQuest",
+            "Object": "00004F:ClassicBobbleheads.esl"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "stage",
+            "Data": 770
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-4, -4, 0",
+    "Second": "2, 7, 13"
+  },
+  "PreviewTransform": "238CDA:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Girl Agility Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\AgilityF.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "000025:ClassicBobbleheads.esl",
+  "Value": 300
+}

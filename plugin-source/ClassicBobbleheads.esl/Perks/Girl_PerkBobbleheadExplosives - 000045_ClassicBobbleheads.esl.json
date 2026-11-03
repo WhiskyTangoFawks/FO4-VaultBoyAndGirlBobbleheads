@@ -1,0 +1,30 @@
+{
+  "FormKey": "000045:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "Girl_PerkBobbleheadExplosives",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Explosives Vault Boy Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Plus 10%  explosion size."
+  },
+  "NumRanks": 1,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 1,
+      "EntryPoint": "ModPlayerExplosionDamage",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 1.1
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

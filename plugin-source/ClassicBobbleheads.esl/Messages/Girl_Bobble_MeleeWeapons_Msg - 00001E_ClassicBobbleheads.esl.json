@@ -1,0 +1,10 @@
+{
+  "FormKey": "00001E:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_MeleeWeapons_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Always bring a Super Sledge to a gunfight.\"\r\n\r\nPermanently gain +5% critical chance with melee weapons."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

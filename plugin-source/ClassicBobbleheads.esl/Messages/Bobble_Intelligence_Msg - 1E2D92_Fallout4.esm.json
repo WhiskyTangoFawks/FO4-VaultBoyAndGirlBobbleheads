@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D92:Fallout4.esm",
+  "EditorID": "Bobble_Intelligence_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"It takes the smartest individuals to realize there's always more to learn.\"\r\n\r\nYour Intelligence has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

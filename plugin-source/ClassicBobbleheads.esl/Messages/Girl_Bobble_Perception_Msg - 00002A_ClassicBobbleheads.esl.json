@@ -1,0 +1,10 @@
+{
+  "FormKey": "00002A:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Perception_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Foresight can be 20-20 if you look hard enough.\"\r\n\r\nYour Perception has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "1E686C:Fallout4.esm",
+  "EditorID": "SPECIALAgility",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Agility is a measure of your overall finesse and reflexes. It determines your Action Points in V.A.T.S. and your ability to sneak."
+  },
+  "LoadingScreenNif": "00083E:ClassicBobbleheads.esl",
+  "Transform": "22BABD:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

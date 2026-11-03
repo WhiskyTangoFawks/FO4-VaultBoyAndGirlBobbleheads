@@ -1,0 +1,15 @@
+{
+  "FormKey": "000837:ClassicBobbleheads.esl",
+  "VersionControl": 33565793,
+  "EditorID": "00DCSPECIALIntelligence_Female",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned."
+  },
+  "LoadingScreenNif": "000848:ClassicBobbleheads.esl",
+  "Transform": "22BABF:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

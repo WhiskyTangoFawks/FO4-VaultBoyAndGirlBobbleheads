@@ -1,0 +1,10 @@
+{
+  "FormKey": "00001A:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_SmallGuns_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"For 210 years old, these guns have held together well.\"\r\n\r\nPermanently gain +5% critical chance with ballistic guns.."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

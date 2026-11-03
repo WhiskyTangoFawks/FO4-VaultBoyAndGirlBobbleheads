@@ -1,0 +1,32 @@
+{
+  "FormKey": "000048:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "Girl_PerkBobbleheadLockpick",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lockpicking Vault Girl Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Lockpicking is easier."
+  },
+  "Level": 1,
+  "NumRanks": 1,
+  "Sound": "1A7649:Fallout4.esm",
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModLockpickSweetSpot",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 1.2
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

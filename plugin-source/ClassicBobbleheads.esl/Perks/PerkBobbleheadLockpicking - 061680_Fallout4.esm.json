@@ -1,0 +1,31 @@
+{
+  "FormKey": "061680:Fallout4.esm",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "PerkBobbleheadLockpicking",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lockpicking Vault Boy Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Lockpicking is easier."
+  },
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModLockpickSweetSpot",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 1.2
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

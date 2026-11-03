@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D9E:Fallout4.esm",
+  "EditorID": "Bobble_Sneak_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"The safest distance between two points is a shadowy line.\"\r\n\r\nYou are permanently 5% harder to detect."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

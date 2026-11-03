@@ -1,0 +1,31 @@
+{
+  "FormKey": "061684:Fallout4.esm",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "PerkBobbleheadScience",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Science Vault Boy Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Get one extra guess when hacking terminals."
+  },
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModHackingGuesses",
+      "PerkConditionTabCount": 1,
+      "Modification": "Add",
+      "Value": 1.0
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

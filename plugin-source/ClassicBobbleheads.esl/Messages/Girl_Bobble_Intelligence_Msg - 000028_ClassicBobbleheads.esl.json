@@ -1,0 +1,10 @@
+{
+  "FormKey": "000028:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Intelligence_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"There's nothing wrong with a bit of expertise.\"\r\n\r\nYour Intelligence has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

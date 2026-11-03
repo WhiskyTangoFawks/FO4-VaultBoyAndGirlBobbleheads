@@ -1,0 +1,14 @@
+{
+  "FormKey": "1E6868:Fallout4.esm",
+  "EditorID": "SPECIALStrength",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Strength is a measure of your raw physical power.  It affects how much you can carry and determines the effectiveness of all melee attacks."
+  },
+  "LoadingScreenNif": "000844:ClassicBobbleheads.esl",
+  "Transform": "22BABE:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

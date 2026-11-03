@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D9F:Fallout4.esm",
+  "EditorID": "Bobble_Speech_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Let your words be your weapon.\"\r\n\r\nMen are permanently easier to persuade."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

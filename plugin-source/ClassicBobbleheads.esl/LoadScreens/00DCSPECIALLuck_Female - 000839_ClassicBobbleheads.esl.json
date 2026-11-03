@@ -1,0 +1,15 @@
+{
+  "FormKey": "000839:ClassicBobbleheads.esl",
+  "VersionControl": 33565793,
+  "EditorID": "00DCSPECIALLuck_Female",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Luck is a measure of your general good fortune, and affects the recharge rate of Critical Hits."
+  },
+  "LoadingScreenNif": "000849:ClassicBobbleheads.esl",
+  "Transform": "22BAC0:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

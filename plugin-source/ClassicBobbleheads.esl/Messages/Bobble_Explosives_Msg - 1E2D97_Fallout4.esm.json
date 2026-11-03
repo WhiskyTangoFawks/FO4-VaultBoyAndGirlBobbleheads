@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D97:Fallout4.esm",
+  "EditorID": "Bobble_Explosives_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"The best way to solve a problem is to make it go away.\"\r\n\r\nPermanently gain +10% damage with explosives."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

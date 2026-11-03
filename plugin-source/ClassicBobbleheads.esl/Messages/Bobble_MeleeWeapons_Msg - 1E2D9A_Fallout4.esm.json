@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D9A:Fallout4.esm",
+  "EditorID": "Bobble_MeleeWeapons_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"It's important to do business up close and personal.\"\r\n\r\nPermanently gain +25% critical damage with melee weapons."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

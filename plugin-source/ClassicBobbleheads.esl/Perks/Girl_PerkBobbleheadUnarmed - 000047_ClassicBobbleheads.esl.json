@@ -1,0 +1,50 @@
+{
+  "FormKey": "000047:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "Girl_PerkBobbleheadUnarmed",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Unarmed Vault Girl Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Plus 5% damage with unarmed attacks."
+  },
+  "Level": 1,
+  "NumRanks": 1,
+  "Sound": "1A72F8:Fallout4.esm",
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Conditions": [
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasKeyword",
+                "ParameterOneRecord": "05240E:Fallout4.esm",
+                "ParameterOneNumber": 336910
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 1,
+      "EntryPoint": "ModWeaponAttackDamage",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 1.05
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

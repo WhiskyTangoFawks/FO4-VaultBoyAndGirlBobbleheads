@@ -1,0 +1,10 @@
+{
+  "FormKey": "000021:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Sneak_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"They're looking right at me and I've got my radio on, but I'm sure they won't see me.\"\r\nYou are permanently 5% harder to detect."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

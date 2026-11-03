@@ -1,0 +1,41 @@
+{
+  "FormKey": "178B57:Fallout4.esm",
+  "EditorID": "BobbleHead_Explosives",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSkillScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerkToAdd",
+            "Object": "06167F:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-2, -4, 0",
+    "Second": "4, 3, 18"
+  },
+  "PreviewTransform": "1BA1A6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Boy Explosive Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\ExplosiveM.nif",
+    "Data": "0x04000000070000000000000003000000020000000E49DC4164647300E615AF47D725DA2264647300E615AF473067E2A764647300E615AF47E90BE4C464647300E615AF47F7E2312464647300E615AF470F2C2A00646473001CDB88C5C9CC0FC264647300E615AF470D4F61246267736D67EF66B1F702453E6267736D67EF66B1"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "1E2D97:Fallout4.esm",
+  "Value": 300
+}

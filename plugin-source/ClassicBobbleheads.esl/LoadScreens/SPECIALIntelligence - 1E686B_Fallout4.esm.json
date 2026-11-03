@@ -1,0 +1,14 @@
+{
+  "FormKey": "1E686B:Fallout4.esm",
+  "EditorID": "SPECIALIntelligence",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Intelligence is a measure of your overall mental acuity, and affects the number of Experience Points earned."
+  },
+  "LoadingScreenNif": "000841:ClassicBobbleheads.esl",
+  "Transform": "22BABF:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

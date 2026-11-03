@@ -1,0 +1,14 @@
+{
+  "FormKey": "1E6867:Fallout4.esm",
+  "EditorID": "SPECIALEndurance",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Endurance is a measure of your overall physical fitness. It affects your total Health and the Action Point drain from sprinting."
+  },
+  "LoadingScreenNif": "000840:ClassicBobbleheads.esl",
+  "Transform": "22BABE:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "FormKey": "061681:Fallout4.esm",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "PerkBobbleheadMedicine",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Medicine Vault Boy Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Stimpaks do 10% more healing."
+  },
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Conditions": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "065E35:Fallout4.esm",
+                "ParameterOneNumber": 417333
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "EPMagic_SpellHasKeyword",
+                "ParameterOneRecord": "04C948:Fallout4.esm",
+                "ParameterOneNumber": 313672
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 4,
+      "EntryPoint": "ModSpellMagnitude",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 2.73
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Priority": 1,
+      "Conditions": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "06FA1D:Fallout4.esm",
+                "ParameterOneNumber": 457245
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "065E35:Fallout4.esm",
+                "ParameterOneNumber": 417333
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "EPMagic_SpellHasKeyword",
+                "ParameterOneRecord": "04C948:Fallout4.esm",
+                "ParameterOneNumber": 313672
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 3,
+      "EntryPoint": "ModSpellMagnitude",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 1.6
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Priority": 2,
+      "Conditions": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "06FA1C:Fallout4.esm",
+                "ParameterOneNumber": 457244
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "06FA1D:Fallout4.esm",
+                "ParameterOneNumber": 457245
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "EPMagic_SpellHasKeyword",
+                "ParameterOneRecord": "04C948:Fallout4.esm",
+                "ParameterOneNumber": 313672
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 2,
+      "EntryPoint": "ModSpellMagnitude",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 1.2
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Priority": 3,
+      "Conditions": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "04C926:Fallout4.esm",
+                "ParameterOneNumber": 313638
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "06FA1C:Fallout4.esm",
+                "ParameterOneNumber": 457244
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "EPMagic_SpellHasKeyword",
+                "ParameterOneRecord": "04C948:Fallout4.esm",
+                "ParameterOneNumber": 313672
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 1,
+      "EntryPoint": "ModSpellMagnitude",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 0.8
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Priority": 4,
+      "Conditions": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "HasPerk",
+                "ParameterOneRecord": "04C926:Fallout4.esm",
+                "ParameterOneNumber": 313638
+              }
+            }
+          ]
+        },
+        {
+          "RunOnTabIndex": 1,
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "EPMagic_SpellHasKeyword",
+                "ParameterOneRecord": "04C948:Fallout4.esm",
+                "ParameterOneNumber": 313672
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 0,
+      "EntryPoint": "ModSpellMagnitude",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 0.6
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

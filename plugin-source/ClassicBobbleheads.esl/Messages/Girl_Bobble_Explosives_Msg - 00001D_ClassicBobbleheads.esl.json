@@ -1,0 +1,10 @@
+{
+  "FormKey": "00001D:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Explosives_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"If there's one thing this world needs, it's more bombs.\"\r\n\r\nPlus 10% explosion size."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

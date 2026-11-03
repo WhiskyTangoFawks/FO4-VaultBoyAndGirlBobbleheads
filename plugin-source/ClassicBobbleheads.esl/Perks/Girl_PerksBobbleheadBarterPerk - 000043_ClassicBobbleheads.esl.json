@@ -1,0 +1,31 @@
+{
+  "FormKey": "000043:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "Girl_PerksBobbleheadBarterPerk",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Barter Vault Girl Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Buying prices are 5% better"
+  },
+  "NumRanks": 4,
+  "Sound": "1A763A:Fallout4.esm",
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 1,
+      "EntryPoint": "ModBuyPrices",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 0.95
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "1E6869:Fallout4.esm",
+  "EditorID": "SPECIALPerception",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Perception is your sense of environmental awareness and affects the hit chance in V.A.T.S."
+  },
+  "LoadingScreenNif": "000843:ClassicBobbleheads.esl",
+  "Transform": "22BABE:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  }
+}

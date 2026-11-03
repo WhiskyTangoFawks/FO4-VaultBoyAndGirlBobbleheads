@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D96:Fallout4.esm",
+  "EditorID": "Bobble_EnergyWeapons_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Arrive at peaceful resolutions by using superior firepower.\"\r\n\r\nPermanently gain +25% critical damage with energy weapons."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

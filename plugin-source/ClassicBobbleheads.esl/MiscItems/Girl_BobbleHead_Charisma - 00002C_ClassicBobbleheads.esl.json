@@ -1,0 +1,46 @@
+{
+  "FormKey": "00002C:ClassicBobbleheads.esl",
+  "EditorID": "Girl_BobbleHead_Charisma",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "BobbleheadSPECIALscrip",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerksQuest",
+            "Object": "00004F:ClassicBobbleheads.esl"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "stage",
+            "Data": 750
+          }
+        ]
+      },
+      {
+        "Name": "defaultdisablehavokonload"
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-2, -4, 0",
+    "Second": "3, 2, 16"
+  },
+  "PreviewTransform": "1BA1A6:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Girl Charisma Bobblehead"
+  },
+  "Model": {
+    "File": "CapitalWasteland\\Clutter\\BobbleHeads\\CharismaF.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "135E6C:Fallout4.esm",
+    "1B3FAC:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "000026:ClassicBobbleheads.esl",
+  "Value": 300
+}

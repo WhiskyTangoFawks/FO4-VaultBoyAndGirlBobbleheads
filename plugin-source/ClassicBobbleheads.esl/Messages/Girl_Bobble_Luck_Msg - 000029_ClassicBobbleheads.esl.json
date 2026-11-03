@@ -1,0 +1,10 @@
+{
+  "FormKey": "000029:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Luck_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Fortune favours the brave.\"\r\n\r\nYour Luck has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

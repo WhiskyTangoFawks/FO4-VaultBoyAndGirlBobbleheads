@@ -1,0 +1,68 @@
+{
+  "FormKey": "00004B:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "Girl_PerkBobbleheadRepair",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Repair Vault Girl Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Fusion cores last 10% longer."
+  },
+  "NumRanks": 1,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkAbilityEffect",
+      "Ability": "000017:ClassicBobbleheads.esl"
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "Conditions": [
+        {
+          "Conditions": [
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "WornHasKeyword",
+                "ParameterOneRecord": "04D8A1:Fallout4.esm",
+                "ParameterOneNumber": 317601
+              }
+            },
+            {
+              "MutagenObjectType": "ConditionFloat",
+              "Flags": [
+                "OR"
+              ],
+              "Unknown1": "0x9B1B00",
+              "ComparisonValue": 1.0,
+              "Data": {
+                "MutagenObjectType": "FunctionConditionData",
+                "Function": "WornHasKeyword",
+                "ParameterOneRecord": "1466F0:Fallout4.esm",
+                "ParameterOneNumber": 1337072
+              }
+            }
+          ]
+        }
+      ],
+      "PerkEntryID": 0,
+      "EntryPoint": "ModAmmoHealthMult",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 1.1
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

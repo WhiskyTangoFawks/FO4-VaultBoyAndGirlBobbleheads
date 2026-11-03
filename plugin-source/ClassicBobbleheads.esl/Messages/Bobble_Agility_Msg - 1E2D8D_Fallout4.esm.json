@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D8D:Fallout4.esm",
+  "EditorID": "Bobble_Agility_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Never be afraid to dodge the sensitive issues.\"\r\n\r\nYour Agility has been permanently increased by 1."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

@@ -1,0 +1,39 @@
+{
+  "FormKey": "000049:ClassicBobbleheads.esl",
+  "MajorRecordFlagsRaw": 4,
+  "EditorID": "Girl_PerkBobbleheadSneak",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sneak Vault Girl Bobblehead"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "5% harder to detect."
+  },
+  "NumRanks": 1,
+  "Sound": "1A72E3:Fallout4.esm",
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModDetectionLight",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 0.95
+    },
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 1,
+      "EntryPoint": "ModDetectionMovement",
+      "PerkConditionTabCount": 2,
+      "Modification": "Multiply",
+      "Value": 0.95
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

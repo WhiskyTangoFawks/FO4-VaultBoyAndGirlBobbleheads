@@ -1,0 +1,10 @@
+{
+  "FormKey": "00001F:ClassicBobbleheads.esl",
+  "EditorID": "Girl_Bobble_Unarmed_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"You're only a true fighter when you beat a power armoured soldier to death with your bare hands.\"\r\n\r\nPermanently gain +5% critical chance with unarmed attacks."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

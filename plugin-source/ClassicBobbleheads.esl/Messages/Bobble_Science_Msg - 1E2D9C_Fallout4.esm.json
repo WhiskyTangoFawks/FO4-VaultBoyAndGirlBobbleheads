@@ -1,0 +1,10 @@
+{
+  "FormKey": "1E2D9C:Fallout4.esm",
+  "EditorID": "Bobble_Science_Msg",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "\"Always be prepared to explain the hows and the whys.\"\r\n\r\nGet one extra guess when hacking terminals."
+  },
+  "DisplayTime": 2,
+  "Swf": "Components\\Quest Vault Boys\\Miscellaneous Quests\\DefaultBoy.swf"
+}

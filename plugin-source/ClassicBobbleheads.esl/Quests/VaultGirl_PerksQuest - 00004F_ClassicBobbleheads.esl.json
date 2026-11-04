@@ -7,8 +7,33 @@
       "Properties": [
         {
           "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "AbPerkAbsorbRadiation",
+          "Object": "05DD98:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
           "Name": "Agility",
           "Object": "0002C7:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "AnimalFriend01Faction",
+          "Object": "052407:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "AnimalFriend02Faction",
+          "Object": "052408:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "AtomicCommand_HolotapeGame",
+          "Object": "06167B:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "BloodyMess",
+          "Object": "0002ED:Fallout4.esm"
         },
         {
           "MutagenObjectType": "ScriptObjectProperty",
@@ -22,8 +47,43 @@
         },
         {
           "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "DiamondCityMapMarkerRef",
+          "Object": "01CAD5:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
           "Name": "Endurance",
           "Object": "0002C4:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "FastTravelOverEncumbered",
+          "Object": "101CB8:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "FortuneFinderPerkChance",
+          "Object": "04A0BA:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Grognak_HolotapeGame",
+          "Object": "0727FA:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "hackerHolotapeProtectron",
+          "Object": "1680E3:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "hackerHolotapeSpotlight",
+          "Object": "1128BC:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "hackerHolotapeTurret",
+          "Object": "108B55:Fallout4.esm"
         },
         {
           "MutagenObjectType": "ScriptObjectProperty",
@@ -42,12 +102,154 @@
         },
         {
           "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "Pipfall_HolotapeGame",
+          "Object": "072802:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "pModScrapScalar_Rare",
+          "Object": "2074A6:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "pModScrapScalar_Uncommon",
+          "Object": "2074A5:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "RedMenace_HolotapeGame",
+          "Object": "0E5082:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "ScroungerPerkChance",
+          "Object": "04A0B1:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "ScroungerPerkChanceSmall",
+          "Object": "1081BA:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
           "Name": "Strength",
           "Object": "0002C2:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "VATSStrangerOdds",
+          "Object": "1D4AA1:Fallout4.esm"
+        },
+        {
+          "MutagenObjectType": "ScriptObjectProperty",
+          "Name": "ZetaInvaders_HolotapeGame",
+          "Object": "072803:Fallout4.esm"
         }
       ]
     },
     "Fragments": [
+      {
+        "Stage": 100,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0100_Item_00"
+      },
+      {
+        "Stage": 110,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0110_Item_00"
+      },
+      {
+        "Stage": 120,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0120_Item_00"
+      },
+      {
+        "Stage": 200,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0200_Item_00"
+      },
+      {
+        "Stage": 210,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0210_Item_00"
+      },
+      {
+        "Stage": 220,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0220_Item_00"
+      },
+      {
+        "Stage": 300,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0300_Item_00"
+      },
+      {
+        "Stage": 400,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0400_Item_00"
+      },
+      {
+        "Stage": 450,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0450_Item_00"
+      },
+      {
+        "Stage": 500,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0500_Item_00"
+      },
+      {
+        "Stage": 600,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0600_Item_00"
+      },
+      {
+        "Stage": 610,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0610_Item_00"
+      },
+      {
+        "Stage": 620,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0620_Item_00"
+      },
+      {
+        "Stage": 630,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0630_Item_00"
+      },
+      {
+        "Stage": 640,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0640_Item_00"
+      },
+      {
+        "Stage": 650,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0650_Item_00"
+      },
+      {
+        "Stage": 660,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0660_Item_00"
+      },
       {
         "Stage": 700,
         "Unknown2": 1,
@@ -101,12 +303,102 @@
         "Unknown2": 1,
         "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
         "FragmentName": "Fragment_Stage_0780_Item_00"
+      },
+      {
+        "Stage": 800,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0800_Item_00"
+      },
+      {
+        "Stage": 900,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_0900_Item_00"
+      },
+      {
+        "Stage": 1000,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1000_Item_00"
+      },
+      {
+        "Stage": 1010,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1010_Item_00"
+      },
+      {
+        "Stage": 1030,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1030_Item_00"
+      },
+      {
+        "Stage": 1040,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1040_Item_00"
+      },
+      {
+        "Stage": 1050,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1050_Item_00"
+      },
+      {
+        "Stage": 1070,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1070_Item_00"
+      },
+      {
+        "Stage": 1100,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1100_Item_00"
+      },
+      {
+        "Stage": 1110,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1110_Item_00"
+      },
+      {
+        "Stage": 1120,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1120_Item_00"
+      },
+      {
+        "Stage": 1300,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1300_Item_00"
+      },
+      {
+        "Stage": 1310,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1310_Item_00"
+      },
+      {
+        "Stage": 1610,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1610_Item_00"
+      },
+      {
+        "Stage": 1620,
+        "Unknown2": 1,
+        "ScriptName": "Fragments:Quests:QF_PerksQuest_0004A09E",
+        "FragmentName": "Fragment_Stage_1620_Item_00"
       }
     ]
   },
   "Name": {
     "TargetLanguage": "English",
-    "Value": "VaultGirlBobbleheadQuest"
+    "Value": "Perks Quest"
   },
   "Data": {
     "Flags": [
@@ -119,6 +411,170 @@
   },
   "UnusedConditions": [],
   "Stages": [
+    {
+      "Index": 100,
+      "Unknown": 27,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Scounger 1"
+        }
+      ]
+    },
+    {
+      "Index": 110,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Scrounger 2"
+        }
+      ]
+    },
+    {
+      "Index": 120,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Scrounger 3"
+        }
+      ]
+    },
+    {
+      "Index": 200,
+      "Unknown": 151,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Fortune Finder 1"
+        }
+      ]
+    },
+    {
+      "Index": 210,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Fortune Finder 2"
+        }
+      ]
+    },
+    {
+      "Index": 220,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Fortune Finder 3"
+        }
+      ]
+    },
+    {
+      "Index": 300,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Bloody Mess"
+        }
+      ]
+    },
+    {
+      "Index": 400,
+      "Unknown": 137,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Animal Friend, Rank 1"
+        }
+      ]
+    },
+    {
+      "Index": 450,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Animal Friend, Rank 2"
+        }
+      ]
+    },
+    {
+      "Index": 500,
+      "Unknown": 102,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Rad Absorption"
+        }
+      ]
+    },
+    {
+      "Index": 600,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Strength Training"
+        }
+      ]
+    },
+    {
+      "Index": 610,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Perception Training"
+        }
+      ]
+    },
+    {
+      "Index": 620,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Endurance Training"
+        }
+      ]
+    },
+    {
+      "Index": 630,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Charisma Training"
+        }
+      ]
+    },
+    {
+      "Index": 640,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Intelligence Training"
+        }
+      ]
+    },
+    {
+      "Index": 650,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Agility Training"
+        }
+      ]
+    },
+    {
+      "Index": 660,
+      "Unknown": 29,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Luck Training"
+        }
+      ]
+    },
     {
       "Index": 700,
       "LogEntries": [
@@ -206,7 +662,378 @@
           "Note": "Bobblehead Luck"
         }
       ]
+    },
+    {
+      "Index": 800,
+      "Unknown": 27,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Strong Back 4"
+        }
+      ]
+    },
+    {
+      "Index": 900,
+      "Unknown": 26,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Explorer"
+        }
+      ]
+    },
+    {
+      "Index": 950,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Nerd rage 1"
+        }
+      ]
+    },
+    {
+      "Index": 960,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Nerd Rage 2"
+        }
+      ]
+    },
+    {
+      "Index": 970,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Nerd Rage 3"
+        }
+      ]
+    },
+    {
+      "Index": 1000,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Robco mag: Atomic Command"
+        }
+      ]
+    },
+    {
+      "Index": 1010,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Robco mag: Grognak"
+        }
+      ]
+    },
+    {
+      "Index": 1030,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Robco mag: Pipfall"
+        }
+      ]
+    },
+    {
+      "Index": 1040,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Robco mag: Red menace"
+        }
+      ]
+    },
+    {
+      "Index": 1050,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Robco mag: Zeta invaders"
+        }
+      ]
+    },
+    {
+      "Index": 1060,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Wasteland Suvival 4 - flamingo"
+        }
+      ]
+    },
+    {
+      "Index": 1070,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Wasteland Suvival 5"
+        }
+      ]
+    },
+    {
+      "Index": 1100,
+      "Unknown": 46,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Total Hack: Protectron"
+        }
+      ]
+    },
+    {
+      "Index": 1110,
+      "Unknown": 46,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Total Hack: Spotlight"
+        }
+      ]
+    },
+    {
+      "Index": 1120,
+      "Unknown": 46,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Total Hack: Turret"
+        }
+      ]
+    },
+    {
+      "Index": 1200,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Le Coiffe magazine 1"
+        }
+      ]
+    },
+    {
+      "Index": 1210,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Le Coiffe magazine 2"
+        }
+      ]
+    },
+    {
+      "Index": 1220,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Le Coiffe magazine 3"
+        }
+      ]
+    },
+    {
+      "Index": 1230,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Le Coiffe magazine 4"
+        }
+      ]
+    },
+    {
+      "Index": 1240,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Le Coiffe magazine 5"
+        }
+      ]
+    },
+    {
+      "Index": 1300,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Mysterious Stranger 2"
+        }
+      ]
+    },
+    {
+      "Index": 1310,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Mysterious Stranger 3"
+        }
+      ]
+    },
+    {
+      "Index": 1400,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Picket Fences mag 1 - fencing"
+        }
+      ]
+    },
+    {
+      "Index": 1410,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Picket Fences mag 2 - high tech lights"
+        }
+      ]
+    },
+    {
+      "Index": 1420,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Picket Fences mag 3 - statues"
+        }
+      ]
+    },
+    {
+      "Index": 1430,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Picket Fences mag 4 - potted plant"
+        }
+      ]
+    },
+    {
+      "Index": 1440,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Picket Fences mag 5 - patio furniture"
+        }
+      ]
+    },
+    {
+      "Index": 1500,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Hot Rodder magazine 1"
+        }
+      ]
+    },
+    {
+      "Index": 1510,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Hot Rodder magazine 2"
+        }
+      ]
+    },
+    {
+      "Index": 1520,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Hot Rodder magazine 3"
+        }
+      ]
+    },
+    {
+      "Index": 1610,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Scrapper 1"
+        }
+      ]
+    },
+    {
+      "Index": 1620,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Scrapper 2"
+        }
+      ]
+    },
+    {
+      "Index": 1700,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Taboo Tattoos mag 1"
+        }
+      ]
+    },
+    {
+      "Index": 1710,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Taboo Tattoos mag 2"
+        }
+      ]
+    },
+    {
+      "Index": 1720,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Taboo Tattoos mag 3"
+        }
+      ]
+    },
+    {
+      "Index": 1730,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Taboo Tattoos mag 4"
+        }
+      ]
+    },
+    {
+      "Index": 1740,
+      "Unknown": 116,
+      "LogEntries": [
+        {
+          "Flags": [],
+          "Note": "Taboo Tattoos mag 5"
+        }
+      ]
     }
   ],
-  "Aliases": []
+  "Aliases": [
+    {
+      "MutagenObjectType": "QuestReferenceAlias",
+      "Name": "roboticsExpertTarget",
+      "Flags": [
+        "Optional",
+        "AllowReuseInQuest",
+        "MatchingRefInLoadedArea",
+        "MatchingRefClosest",
+        "MatchingRefForActorsOnly"
+      ],
+      "Factions": [
+        "106C30:Fallout4.esm"
+      ],
+      "PackageData": [
+        "23F1B6:Fallout4.esm",
+        "23F1B7:Fallout4.esm"
+      ],
+      "VoiceTypes": "Null"
+    }
+  ]
 }

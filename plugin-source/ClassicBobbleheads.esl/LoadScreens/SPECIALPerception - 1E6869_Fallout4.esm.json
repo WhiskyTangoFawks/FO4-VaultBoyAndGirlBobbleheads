@@ -3,7 +3,7 @@
   "EditorID": "SPECIALPerception",
   "Description": {
     "TargetLanguage": "English",
-    "Value": "Perception is your sense of environmental awareness, and affects the hit chance in V.A.T.S."
+    "Value": "Perception is your sense of environmental awareness and affects the hit chance in V.A.T.S."
   },
   "LoadingScreenNif": "000843:ClassicBobbleheads.esl",
   "Transform": "22BABE:Fallout4.esm",

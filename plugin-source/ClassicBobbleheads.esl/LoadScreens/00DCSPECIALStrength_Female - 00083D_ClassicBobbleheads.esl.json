@@ -4,7 +4,7 @@
   "EditorID": "00DCSPECIALStrength_Female",
   "Description": {
     "TargetLanguage": "English",
-    "Value": "Strength is a measure of your raw physical power. It affects how much you can carry, and determines the effectiveness of all melee attacks."
+    "Value": "Strength is a measure of your raw physical power.  It affects how much you can carry, and determines the effectiveness of all melee attacks."
   },
   "LoadingScreenNif": "00084B:ClassicBobbleheads.esl",
   "Transform": "22BABE:Fallout4.esm",

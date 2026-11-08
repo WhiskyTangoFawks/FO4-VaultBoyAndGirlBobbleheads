@@ -1,6 +1,3 @@
 {
-"version":1,
-"packages":[
-{"kind":"installationFile","name":"Vault Boy And Girl Bobbleheads - ESP-65613-2-4-1720863622.7z","packageVersion":"2.4.0.0","size":7336,"hash":"w4SrS7SOFNw=","host":{"nexus":{"game":"fallout4","mod":65613,"file":326585}}}
-]
+"version":1
 }

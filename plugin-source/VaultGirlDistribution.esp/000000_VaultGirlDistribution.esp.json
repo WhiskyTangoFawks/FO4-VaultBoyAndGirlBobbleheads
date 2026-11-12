@@ -1,0 +1,12 @@
+{
+  "ModKey": "VaultGirlDistribution.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 2050
+    }
+  }
+}

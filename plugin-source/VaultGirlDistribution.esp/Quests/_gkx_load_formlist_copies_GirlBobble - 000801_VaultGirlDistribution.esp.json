@@ -1,5 +1,5 @@
 {
-  "FormKey": "00004E:ClassicBobbleheads.esl",
+  "FormKey": "000801:VaultGirlDistribution.esp",
   "EditorID": "_gkx_load_formlist_copies_GirlBobble",
   "VirtualMachineAdapter": {
     "Script": {
@@ -11,7 +11,7 @@
           "Objects": [
             {
               "Name": "",
-              "Object": "00004D:ClassicBobbleheads.esl"
+              "Object": "000800:VaultGirlDistribution.esp"
             },
             {
               "Name": "",
